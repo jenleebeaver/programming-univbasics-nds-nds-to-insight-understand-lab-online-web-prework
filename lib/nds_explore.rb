@@ -8,7 +8,6 @@ def pretty_print_nds(nds)
 end
 
 def print_first_directors_movie_titles
-  return pp print_first_directors_movie_titles
   #index = 0
   #while index < print_first_directors_movie_titles.length do
     #puts pp print_first_directors_movie_title
